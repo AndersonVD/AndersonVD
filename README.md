@@ -1,4 +1,4 @@
-### Alonsy folks 👋
+### Allons-y folks 👋
 
 - I'm a Flutter passionate, Python dev
 - Studying a lot of UI/UX Design
